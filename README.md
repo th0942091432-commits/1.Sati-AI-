@@ -12,3 +12,4 @@
 ## ภาคต่อ
 ดูภาคต่อปฏิบัติการได้ที่: [Sati-AI-Engine]
 (https://github.com/th0942091432-commits/2.Sati-AI-Engine)
+ไฟล์.pdfจะไม่แสดงกรุณากดปุ่มลูกศรดาวน์โหลด!
