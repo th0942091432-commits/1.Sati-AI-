@@ -10,5 +10,5 @@
 - 1.Sati-AI.pdf`: สรุปหลักการ 3หน้า
 
 ## ภาคต่อ
-ดูภาคปฏิบัติการได้ที่: [Sati-AI-Engine]
+ดูภาคต่อปฏิบัติการได้ที่: [Sati-AI-Engine]
 (https://github.com/th0942091432-commits/2.Sati-AI-Engine)
